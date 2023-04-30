@@ -9,6 +9,8 @@ sites:
     url: https://en.wikipedia.org
   - name: Log
     url: https://log-theta.vercel.app
+  - name: Brawley 2
+    url: https://cruelajarevents.teambrawley.repl.co/
   - name: Ansai
     url: https://ansai.onwebapp.io/
   
