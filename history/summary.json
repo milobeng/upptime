@@ -76,17 +76,17 @@
     "url": "https://ansai.onwebapp.io/",
     "icon": "https://icons.duckduckgo.com/ip3/ansai.onwebapp.io.ico",
     "slug": "ansai",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 7242,
-    "timeDay": 8058,
-    "timeWeek": 7242,
-    "timeMonth": 7242,
-    "timeYear": 7242,
+    "time": 9710,
+    "timeDay": 11213,
+    "timeWeek": 9710,
+    "timeMonth": 9710,
+    "timeYear": 9710,
     "dailyMinutesDown": {}
   }
 ]
