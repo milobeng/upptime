@@ -31,7 +31,7 @@
     "time": 210,
     "timeDay": 91,
     "timeWeek": 208,
-    "timeMonth": 229,
+    "timeMonth": 225,
     "timeYear": 211,
     "dailyMinutesDown": {}
   },
@@ -58,7 +58,7 @@
     "url": "https://cruelajarevents.teambrawley.repl.co/",
     "icon": "https://icons.duckduckgo.com/ip3/cruelajarevents.teambrawley.repl.co.ico",
     "slug": "brawley-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
