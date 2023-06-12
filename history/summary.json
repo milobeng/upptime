@@ -32,7 +32,7 @@
     "timeDay": 84,
     "timeWeek": 233,
     "timeMonth": 193,
-    "timeYear": 211,
+    "timeYear": 212,
     "dailyMinutesDown": {}
   },
   {
@@ -67,7 +67,7 @@
     "time": 1308,
     "timeDay": 182,
     "timeWeek": 978,
-    "timeMonth": 1205,
+    "timeMonth": 1116,
     "timeYear": 1308,
     "dailyMinutesDown": {}
   },
@@ -76,17 +76,17 @@
     "url": "https://ansai.onwebapp.io/",
     "icon": "https://icons.duckduckgo.com/ip3/ansai.onwebapp.io.ico",
     "slug": "ansai",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5529,
-    "timeDay": 1740,
-    "timeWeek": 1466,
-    "timeMonth": 4529,
-    "timeYear": 5529,
+    "time": 5489,
+    "timeDay": 1356,
+    "timeWeek": 1404,
+    "timeMonth": 4486,
+    "timeYear": 5489,
     "dailyMinutesDown": {}
   }
 ]
